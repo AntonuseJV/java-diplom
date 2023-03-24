@@ -50,6 +50,7 @@ public class GServer {
         h.getResponseBody().write(htmlBytes);
         h.close();
     }
+    
 
     protected void serveConvertion(HttpExchange h) throws IOException {
         System.out.println("Convert request..");
