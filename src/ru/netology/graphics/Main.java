@@ -12,6 +12,7 @@ public class Main {
         GServer server = new GServer(converter);
 
         server.start();
+        
 
         // TextGraphicsConverter converter = new ImageToUnicodeConverter();
         // converter.setMaxRatio(4);
