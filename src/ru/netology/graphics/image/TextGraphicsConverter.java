@@ -3,6 +3,7 @@ package ru.netology.graphics.image;
 import java.io.IOException;
 
 public interface TextGraphicsConverter {
+    
     /**
      * Конвертация изображения, переданного как урл, в текстовую графику.
      *
