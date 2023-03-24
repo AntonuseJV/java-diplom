@@ -1,4 +1,5 @@
 package ru.netology.graphics.image;
+ 
 
 
 public class BadImageSizeException extends Exception {
